@@ -1,0 +1,15 @@
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/bin/Debug/net5.0/WebsitesDownloadHW.deps.json
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/bin/Debug/net5.0/WebsitesDownloadHW.runtimeconfig.json
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/bin/Debug/net5.0/WebsitesDownloadHW.runtimeconfig.dev.json
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/bin/Debug/net5.0/WebsitesDownloadHW.dll
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/bin/Debug/net5.0/ref/WebsitesDownloadHW.dll
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/bin/Debug/net5.0/WebsitesDownloadHW.pdb
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.csprojAssemblyReference.cache
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.AssemblyInfoInputs.cache
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.AssemblyInfo.cs
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.csproj.CoreCompileInputs.cache
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.dll
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/ref/WebsitesDownloadHW.dll
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.pdb
+/Users/alekseidrachev/Projects/WebsitesDownloadHW/WebsitesDownloadHW/obj/Debug/net5.0/WebsitesDownloadHW.genruntimeconfig.cache

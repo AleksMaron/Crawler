@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8B74405D-9B92-47B5-8619-FBA0681958E5}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="WebsitesDownloadHW/Program.cs" Line="56" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebsitesDownloadHW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
